@@ -1,1 +1,1 @@
-# Customer-segmentation-and-Churn
+# Customer-segmentation-and-Churn-Analysis
